@@ -1,0 +1,8 @@
+{
+  "name": "SyncChat",
+  "description": "A cyber-minimalist real-time communication platform featuring zero-latency messaging, room-based navigation, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
